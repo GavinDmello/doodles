@@ -10,6 +10,7 @@ class Bind {
     }
 }
 
+/*
 let b = new Bind()
 var info = {
     name : "Druh",
@@ -20,5 +21,6 @@ var info = {
 
 l = b.bind(info.sing, info, " Halle")
 console.log(l("MS"))
+*/
 
 module.exports = Bind
